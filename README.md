@@ -16,6 +16,7 @@ python/
     instructor/           # Instructor library example
     langchain/            # LangChain agent example
     cursor-sdk/           # Cursor SDK hook replay tracing examples
+    browser-use/          # browser-use agents: 27 scenarios mirroring browser-use's examples, live trace checks
   gateway/
     model-testing/        # Platform Live model availability + separate streaming performance benchmark
     google-genai/         # Google Gemini SDK example
