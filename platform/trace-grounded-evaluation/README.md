@@ -1,6 +1,6 @@
 # Trace-grounded task evaluation
 
-Use Respan's gateway to judge an agent's recorded actions, cite evidence spans,
+<mark data-hl="sky">Use Respan's gateway</mark> to <mark data-hl="sky">judge an agent's recorded actions</mark>, cite evidence spans,
 and compare the task verdict with a code-checked reference. The example keeps
 task completion and the truthfulness of the final response as separate fields.
 
@@ -13,7 +13,7 @@ npm run replay
 npm test
 ```
 
-## What the cases show
+## <mark data-hl="mint">What the cases show</mark>
 
 - An agent tries to delete a calendar event using a todo ID, receives an error,
   and still claims success.
